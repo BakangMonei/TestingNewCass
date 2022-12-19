@@ -1,0 +1,8 @@
+Index.html done
+Contact.html done
+about.html done 
+blog.html done 
+services.html done 
+thankyou.html done 
+checkout.html done 
+cart.html done 
